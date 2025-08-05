@@ -70,6 +70,20 @@ Example:
 
 ![2025-07-28 01-14-42](https://github.com/user-attachments/assets/63467c2b-9c16-45c1-b98e-6d013add7e7a)
 
+<h3>Version spoofing</h3>
+
+Includes:
+
+* Adjustable field from 0 to about 99999
+
+<ins>How it works:</ins>
+
+You grab laser gun, you ram into the freezing tile, before entering the freezing tile you automatically shoot laser
+
+1. Slide the field to wanted version
+2. Hit "enable"
+3. Log into a server and ask someone to check your version (or if you're admin, use 'status' command in F2)
+
 ---
 
 <h3>Planned features:</h3>
@@ -96,3 +110,6 @@ As a regular DDNet build, do your steps
 
 <h1>Pre-release changelog</h1>
 
+1.1.1
+
+[+] Version spoofing
