@@ -78,11 +78,13 @@ Includes:
 
 <ins>How it works:</ins>
 
-You grab laser gun, you ram into the freezing tile, before entering the freezing tile you automatically shoot laser
+You enter a server with custom-set version
 
 1. Slide the field to wanted version
 2. Hit "enable"
 3. Log into a server and ask someone to check your version (or if you're admin, use 'status' command in F2)
+
+> ! Must reconnect after applying new version
 
 ---
 
