@@ -86,6 +86,10 @@ You enter a server with custom-set version
 
 > ! Must reconnect after applying new version
 
+<h3>Hide XPloit bar</h3>
+
+Just press "insert"
+
 ---
 
 <h3>Planned features:</h3>
@@ -115,3 +119,7 @@ As a regular DDNet build, do your steps
 1.1.1
 
 [+] Version spoofing
+
+1.2.0
+
+[+] You can now hide XPloit bar by pressing "insert" button while in settings
