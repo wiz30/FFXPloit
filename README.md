@@ -1,9 +1,12 @@
 
-<img width="1500" height="532" alt="Untitled-1" src="https://github.com/user-attachments/assets/c22069fc-7ae5-40f6-93e5-fc6c35ede26e" />
+<img width="1500" height="532" alt="logo" src="https://github.com/user-attachments/assets/493f4b44-cf74-4c12-8d99-e5fd68fe31e3" />
+
 
 <div align="center">
   <h1 color=red>FFXPloit</h1>
 </div>
+
+*archieved due to laziness of such brain storm features
 
 Brief description:
 
@@ -31,7 +34,7 @@ Someone sends a message, for example: "oka: hi". And your client responds with "
 
 Example:
 
-![2025-07-28 01-00-14 (1)](https://github.com/user-attachments/assets/804efaf4-053e-4095-ad25-d13ae150be93)
+![auto response](https://github.com/user-attachments/assets/febf36d9-7a3d-4112-8a26-0863ed18ab43)
 
 
 <h3>Avoid freezes (may be buggy at specific circumstances)</h3>
